@@ -21,7 +21,7 @@ plt.atributos_independenteslabel('Grupos')
 plt.ylabel('WCSS')
 plt.show()
 
-kmeans = KMeans(n_clusters = 3, init = 'k-means++', random_state = 0)
+kmeans = KMeans(n_clusters = 5, init = 'k-means++', random_state = 0)
 y_kmeans = kmeans.fit_predict(atributos_independentes)
 
 # Visualização

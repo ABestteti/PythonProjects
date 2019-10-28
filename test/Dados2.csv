@@ -1,0 +1,11 @@
+Pais,Escolaridade,Idade,Salario,Comprou
+Uruguai,Superior,44,72000,Nao
+Brasil,Fundamental,27,48000,Sim
+Portugal,Ensino medio,30,54000,Nao
+Brasil,Superior,38,61000,Nao
+Portugal,Superior,40,,Sim
+Uruguai,Superior,35,58000,Sim
+Brasil,Fundamental,,52000,Nao
+Uruguai,Superior,48,79000,Sim
+Portugal,Ensino medio,50,83000,Nao
+Uruguai,Ensino medio,37,67000,Sim
